@@ -11,8 +11,8 @@ import javax.swing.JTextField;
 
 import org.sgx.swing.gui.editors.color.ColorEditor1;
 import org.sgx.swing.gui.editors.font.FontFamilyEditor;
-import org.sgx.swing.j2s.model.base.Color;
-import org.sgx.swing.j2s.model.base.FontFamily;
+import org.sgx.j2s.model.base.Color;
+import org.sgx.j2s.model.base.FontFamily;
 
 public class BeanEditorFactory {
 	public static JComponent createEditorFor(Object o, String name, boolean editable) {

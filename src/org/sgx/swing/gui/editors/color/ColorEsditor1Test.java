@@ -5,11 +5,11 @@ import java.awt.event.WindowListener;
 
 import javax.swing.JFrame;
 
-import org.sgx.swing.j2s.model.base.Color;
-import org.sgx.swing.j2s.model.editor.Editor;
-import org.sgx.swing.j2s.model.editor.EditorInvalidStateException;
-import org.sgx.swing.j2s.model.editor.RealtimeEditor;
-import org.sgx.swing.j2s.model.events.EditorListener;
+import org.sgx.j2s.model.base.Color;
+import org.sgx.j2s.model.editor.Editor;
+import org.sgx.j2s.model.editor.EditorInvalidStateException;
+import org.sgx.j2s.model.editor.RealtimeEditor;
+import org.sgx.j2s.model.events.EditorListener;
 import org.sgx.swing.utils.SwingUtils;
 
 public class ColorEsditor1Test {

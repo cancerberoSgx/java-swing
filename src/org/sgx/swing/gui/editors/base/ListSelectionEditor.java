@@ -13,11 +13,11 @@ import javax.swing.JLabel;
 import javax.swing.JList;
 import javax.swing.JPanel;
 
-import org.sgx.swing.j2s.model.base.ListSelection;
-import org.sgx.swing.j2s.model.editor.Editor;
-import org.sgx.swing.j2s.model.editor.EditorInvalidStateException;
-import org.sgx.swing.j2s.model.editor.selection.SelectionListener;
-import org.sgx.swing.j2s.model.events.EventListener;
+import org.sgx.j2s.model.base.ListSelection;
+import org.sgx.j2s.model.editor.Editor;
+import org.sgx.j2s.model.editor.EditorInvalidStateException;
+import org.sgx.j2s.model.editor.selection.SelectionListener;
+import org.sgx.j2s.model.events.EventListener;
 import org.sgx.utils.Utils;
 
 /**

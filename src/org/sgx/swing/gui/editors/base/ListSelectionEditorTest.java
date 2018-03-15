@@ -8,8 +8,8 @@ import java.util.Collections;
 import javax.swing.JComponent;
 import javax.swing.JFrame;
 
-import org.sgx.swing.j2s.model.base.ListSelection;
-import org.sgx.swing.j2s.model.editor.Editor;
+import org.sgx.j2s.model.base.ListSelection;
+import org.sgx.j2s.model.editor.Editor;
 import org.sgx.swing.utils.SwingUtils;
 
 public class ListSelectionEditorTest {

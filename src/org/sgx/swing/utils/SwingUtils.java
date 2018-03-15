@@ -55,11 +55,11 @@ public class SwingUtils {
 		return f;
 	}
 
-	public static Color transformColor(org.sgx.swing.j2s.model.base.Color color) {
+	public static Color transformColor(org.sgx.j2s.model.base.Color color) {
 		return new Color(color.red, color.green, color.blue);
 	}
-	public static org.sgx.swing.j2s.model.base.Color  transformColor(Color color) {
-		return new org.sgx.swing.j2s.model.base.Color (color.getRed(), color.getGreen(), color.getBlue());
+	public static org.sgx.j2s.model.base.Color  transformColor(Color color) {
+		return new org.sgx.j2s.model.base.Color (color.getRed(), color.getGreen(), color.getBlue());
 	}
 	/**
 	 * @param enable will apply setEnabled(enable) to all children components of parent except comp

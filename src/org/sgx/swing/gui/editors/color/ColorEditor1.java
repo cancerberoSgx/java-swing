@@ -16,9 +16,9 @@ import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
 
 import org.sgx.swing.gui.editors.sliders.RealtimeSwingAbstractEditor;
-import org.sgx.swing.j2s.model.base.Color;
-import org.sgx.swing.j2s.model.editor.EditorInvalidStateException;
-import org.sgx.swing.j2s.model.events.EditorEvent;
+import org.sgx.j2s.model.base.Color;
+import org.sgx.j2s.model.editor.EditorInvalidStateException;
+import org.sgx.j2s.model.events.EditorEvent;
 import org.sgx.swing.utils.SwingUtils;
 
 public class ColorEditor1  extends RealtimeSwingAbstractEditor<Color>{

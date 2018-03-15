@@ -9,9 +9,9 @@ import javax.swing.JPanel;
 
 import org.sgx.swing.gui.editors.beans.SimpleBeanEditor;
 import org.sgx.swing.gui.fontChooser.FontChooserKnower;
-import org.sgx.swing.j2s.model.base.FontFamily;
-import org.sgx.swing.j2s.model.editor.Editor;
-import org.sgx.swing.j2s.model.editor.EditorInvalidStateException;
+import org.sgx.j2s.model.base.FontFamily;
+import org.sgx.j2s.model.editor.Editor;
+import org.sgx.j2s.model.editor.EditorInvalidStateException;
 import org.sgx.swing.utils.SwingUtils;
 
 public class FontFamilyEditor extends SimpleBeanEditor<FontFamily>{

@@ -3,7 +3,7 @@ package org.sgx.swing.gui.editors.beans;
 import java.awt.event.WindowEvent;
 import java.awt.event.WindowListener;
 
-import org.sgx.swing.j2s.model.base.Rectangle;
+import org.sgx.j2s.model.base.Rectangle;
 import org.sgx.swing.utils.SwingUtils;
 import org.sgx.utils.JavaBeansUtils;
 import org.sgx.utils.Utils;

@@ -7,7 +7,7 @@ import javax.swing.JSlider;
 import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
 
-import org.sgx.swing.j2s.model.events.EditorEvent;
+import org.sgx.j2s.model.events.EditorEvent;
 
 
 /**

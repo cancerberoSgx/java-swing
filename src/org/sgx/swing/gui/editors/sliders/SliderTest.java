@@ -2,10 +2,10 @@ package org.sgx.swing.gui.editors.sliders;
 
 import javax.swing.JPanel;
 
-import org.sgx.swing.j2s.model.events.EditorEvent;
-import org.sgx.swing.j2s.model.events.EditorListener;
-import org.sgx.swing.j2s.model.events.Event;
-import org.sgx.swing.j2s.model.events.EventListener;
+import org.sgx.j2s.model.events.EditorEvent;
+import org.sgx.j2s.model.events.EditorListener;
+import org.sgx.j2s.model.events.Event;
+import org.sgx.j2s.model.events.EventListener;
 import org.sgx.swing.utils.SwingUtils;
 
 public class SliderTest {

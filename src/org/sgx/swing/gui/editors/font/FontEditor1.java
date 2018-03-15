@@ -1,8 +1,8 @@
 package org.sgx.swing.gui.editors.font;
 
 import org.sgx.swing.gui.editors.sliders.RealtimeSwingAbstractEditor;
-import org.sgx.swing.j2s.model.base.Font;
-import org.sgx.swing.j2s.model.editor.EditorInvalidStateException;
+import org.sgx.j2s.model.base.Font;
+import org.sgx.j2s.model.editor.EditorInvalidStateException;
 
 public class FontEditor1 extends RealtimeSwingAbstractEditor<Font>{
 
